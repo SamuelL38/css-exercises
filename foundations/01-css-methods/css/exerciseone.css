@@ -1,0 +1,10 @@
+/* excerciseone.css */
+
+div {
+    color:white;
+    background-color: red;
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
